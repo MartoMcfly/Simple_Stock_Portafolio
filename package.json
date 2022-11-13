@@ -1,0 +1,26 @@
+{
+  "name": "simple-stock-portfolio",
+  "version": "1.0.0",
+  "description": "Representation of a simple stock portfolio",
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "jest": "^27.3.1",
+    "ts-jest": "^27.0.7",
+    "typescript": "^4.5.2"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "lint": "tslint --fix --project ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zejiran/simple-stock-portfolio.git"
+  },
+  "author": "zejiran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zejiran/simple-stock-portfolio/issues"
+  },
+  "homepage": "https://github.com/zejiran/simple-stock-portfolio#readme"
+}
